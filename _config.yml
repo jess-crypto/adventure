@@ -24,7 +24,7 @@ gems:
 # ----------------------- #
 
 social:
-    - icon: envelope-o
+  - icon: envelope-o
     title: email
     url: mailto:jb.letras@gmail.com
   - icon: linkedin
