@@ -6,6 +6,4 @@ title: "Suítes Pedagógicas"
 description: |
 ---
 
-(DESCREVER)
-
 Para conhecer, clique [**here**](SITE SUÍTES){:target="_blank"}.
