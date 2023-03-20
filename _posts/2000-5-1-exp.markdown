@@ -1,0 +1,13 @@
+---
+layout: default
+img: positec_logo.png
+category: Experiência
+title: "Consultora Pedagógica"
+description: 2022-presente
+---
+
+
+* __2022 – presente__
+* Positivo Tecnologia, Curitiba, Brasil
+* Trabalho como especialista pedagógica no setor de Produto.
+* Conheça as Suítes Pedagógicas: <https://site.educacional.com.br/suites-pedagogicas>

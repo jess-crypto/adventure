@@ -1,0 +1,38 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://jessicabianchi.github.io
+title: Jessica Bianchi Leite
+email: jb.letras@gmail.com
+author: Jessica Bianchi leite
+description: "Página Pessoal de Jessica"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# Build sitemap
+gems:
+  - jekyll-sitemap
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+    - icon: envelope-o
+    title: email
+    url: mailto:jb.letras@gmail.com
+  - icon: linkedin
+    title: linkedin
+    url: https://www.linkedin.com/in/jessicabianchi14/
+  - icon: file-pdf-o
+    title: CV
+    url: img/JessicaBianchiLeite.pdf
+
+
+

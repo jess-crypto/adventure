@@ -1,0 +1,14 @@
+---
+layout: default
+img: mestrado.jpg
+category: Formação Acadêmica
+title: "Mestrado"
+description: |
+---
+
+
+* __2017 – 2019__
+* Universidade Tecnológica Federal do Paraná
+* Orientadora: Dra Paula Ávila Nunes
+* Atividades: projeto desenvolvido na linha de pesquisa "Multiletramentos e processos de produção de sentido", tendo como título "Variação linguística na concordância nominal de número em comentários na rede social Facebook", rendendo uma dissertação que permite um aprofundamento e novas perspectivas de pesquisa em torno de variação linguística em conversação mediada por computador. 
+* Minha dissertação pode ser lida [**here**](https://repositorio.utfpr.edu.br/jspui/handle/1/5191){:target="_blank"}.

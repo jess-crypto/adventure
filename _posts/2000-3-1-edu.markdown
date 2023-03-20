@@ -1,0 +1,11 @@
+---
+layout: default
+img: univille.JPG
+category: Formação Acadêmica
+title: Graduação em Letras - língua portuguesa e língua inglesa
+description: 2009-2013
+---
+
+* __2009 - 2013__
+* Universidade da Região de Joinville
+

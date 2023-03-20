@@ -1,0 +1,12 @@
+---
+layout: default
+img: ne.jpg
+category: Experiência
+title: "Professora de língua inglesa"
+description: 2017-2022
+---
+
+
+* __2017 – 2022__
+* New England, Curitiba, Brasil
+* Ministrei aulas de língua inglesa no método Callan, para jovens e adultos, do nível básico ao avançado.

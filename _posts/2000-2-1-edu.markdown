@@ -1,0 +1,12 @@
+---
+layout: default
+img: pucrs.jpg
+category: Formação Acadêmica
+title: Especialização em Ciência de Dados e Inteligência Artificial
+description: 2022-presente
+---
+
+* __2022 - presente__
+* Pontifícia Universidade Católica do Rio Grande do Sul
+* Cursando atualmente, a grade curricular permitirá conhecimento intermediário a avançado na linguagem Python, banco de dados relacionais e não relacionais, machine learning, deep learning, processamento de linguagem natural, pré-processamento de dados e demais habilidades requeridas para análise de dados.
+ 

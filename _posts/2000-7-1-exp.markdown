@@ -1,0 +1,12 @@
+---
+layout: default
+img: arco.jpg
+category: Experiência
+title: "Editora de Conteúdo Digital"
+description: 2019-2021
+---
+
+
+* __2019 – 2021__
+* Arco Educação, Curitiba, Brasil
+* Criação de originais e edição de roteiros de Objetos Educacionais Digitais para Ensino Fundamental e Ensino Médio nos materiais da Positivo.

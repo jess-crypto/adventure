@@ -1,0 +1,7 @@
+---
+layout: default
+category: Projetos
+title: "Metodologia Língua Inglesa"
+description: |Criar e desenvolver uma metodologia com material personalizado para o ensino de inglês como segunda língua para jovens e adultos. A partir da criação da metodologia, aplicar em aulas particulares exercícios contextualizados visando o objetivo profissional dos alunos. (projeto em desenvolvimento)
+---
+
