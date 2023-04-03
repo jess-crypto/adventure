@@ -6,4 +6,4 @@ title: "Suítes Pedagógicas"
 description: |
 ---
 Trabalho na curadoria e desenvolvimento de tecnologias educacionais. Um dos produtos inovadores que lançamos é a plataforma Suítes Pedagógicas, que consiste na entrega de um ecossistema completo para as escolas, com ferramentas de gestão e aplicações educacionais nos componentes curriculares de Língua Portuguesa, Matemática e Steam para os alunos. A partir de uma triagem, entregamos exatamente o que a escola precisa para se desenvolver digitalmente.
-Para conhecer, clique [**aqui**](SITE SUÍTES){:target="_blank"}.
+Para conhecer, clique [**aqui**](https://site.educacional.com.br/suites-pedagogicas){:target="_blank"}.
