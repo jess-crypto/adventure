@@ -2,8 +2,8 @@
 layout: default
 category: Projetos
 title: "Dia internacional da mulher: uma análise de conteúdo"
-description: | O objetivo é realizar um web scraping de notícias veiculadas no dia internacional da mulher, em diferentes anos, realizando uma análise comparativa semântica e sintaticamente em relação ao conteúdo da notícia em si. Uma análise de conteúdo traria um índice de manchetes que noticiaram casos de violência e/ou feminicídio, atribuições negativas ao dia ou mesmo positivas e empoderadoras. A partir desta análise, perceber se realmente o dia em questão tem relação com os fatos noticiados e ocorridos na semana da data. (projeto em etapa inicial)
+description: | 
 ---
-
+O objetivo é realizar um web scraping de notícias veiculadas no dia internacional da mulher, em diferentes anos, realizando uma análise comparativa semântica e sintaticamente em relação ao conteúdo da notícia em si. Uma análise de conteúdo traria um índice de manchetes que noticiaram casos de violência e/ou feminicídio, atribuições negativas ao dia ou mesmo positivas e empoderadoras. A partir desta análise, perceber se realmente o dia em questão tem relação com os fatos noticiados e ocorridos na semana da data. (projeto em etapa inicial)
 
 
