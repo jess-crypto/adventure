@@ -1,6 +1,6 @@
 ---
 layout: default
-img: positec_logo.png
+img: positec_logo.jpg
 category: Experiência
 title: "Consultora Pedagógica"
 description: 2022-presente
