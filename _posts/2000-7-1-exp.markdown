@@ -1,6 +1,6 @@
 ---
 layout: default
-img: arco.jpg
+img: arco.png
 category: Experiência
 title: "Editora de Conteúdo Digital"
 description: 2019-2021
