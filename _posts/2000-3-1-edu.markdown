@@ -1,6 +1,6 @@
 ---
 layout: default
-img: univille.JPG
+img: univille.jpg
 category: Formação Acadêmica
 title: Graduação em Letras - língua portuguesa e língua inglesa
 description: 2009-2013
