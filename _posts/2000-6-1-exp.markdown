@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ne.jpg
+img: ne.png
 category: Experiência
 title: "Professora de língua inglesa"
 description: 2017-2022
